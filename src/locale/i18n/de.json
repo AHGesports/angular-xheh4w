@@ -1,0 +1,21 @@
+{
+  "Moderate": "DE is Mäßig!",
+  "Warning": "DE is Warnung",
+  "Critical": "DE is Kritisch outside",
+  "sessions": {
+    "active-sessions-mobile": "aktiv",
+    "past-sessions-mobile": "vergangene sitzungen",
+    "active-sessions": "Aktive Sitzungen",
+    "past-sessions": "Vergangene Sitzungen",
+    "search": "SUCHEN",
+    "Moderate": "DE is Mäßig!",
+    "Warning": "DE is Warnung",
+    "Critical": "DE is Kritisch inside"
+  },
+  "language": {
+    "test-text": "Sprache ist Deutsch"
+  },
+  "table": {
+    "Table": "De in table"
+  }
+}
